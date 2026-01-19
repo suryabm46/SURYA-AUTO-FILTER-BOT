@@ -338,9 +338,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- Create Your Bot ◉› :<blockquote><a href="https://t.me/SB_KANNADA_MOVE_WORLD">𝐒𝐔𝐑𝐘𝐀-𝐁𝐌-𝟎𝟒</a></blockquote>
+- Create Your Bot ◉› :<blockquote><a href="https://t.me/suryabm04">𝐒𝐔𝐑𝐘𝐀-𝐁𝐌-𝟎𝟒</a></blockquote>
 
-developer : ꜱᴜʀʏᴀ ᴋᴜᴍᴀʀ ᴍ
+ᴅᴇᴠᴇʟᴏᴩᴇʀ : ꜱᴜʀʏᴀ ᴋᴜᴍᴀʀ ᴍ
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
@@ -368,4 +368,5 @@ developer : ꜱᴜʀʏᴀ ᴋᴜᴍᴀʀ ᴍ
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/suryabm04">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/suryakumarm46">ᴀᴅᴍɪɴ</a></b>"""
+
 
