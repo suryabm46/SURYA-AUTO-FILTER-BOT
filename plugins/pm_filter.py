@@ -845,7 +845,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	)
     elif query.data == "free":
         buttons = [[
-            InlineKeyboardButton('☆📸 𝙎𝙚𝙣𝙙 𝙨𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩 📸☆', url=f'https://t.me/innocent_babe_dead')
+            InlineKeyboardButton('☆📸 𝙎𝙚𝙣𝙙 𝙨𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩 📸☆', url=f'https://t.me/SB_KANNADA_MOVE_WORLD')
         ],[
             InlineKeyboardButton('💎 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻 💎', callback_data='other')
         ],[
@@ -998,11 +998,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             disable_web_page_preview = True
 	)
     elif query.data == "mydevelopers":
-        await query.answer("Meet the minds behind this bot:\n\n👨‍💻 @learningbots79\n👨‍💻 @innocent_babe_dead\n\n\n❤️ A big thank you for making this bot awesome!", show_alert=True)
+        await query.answer("Meet the minds behind this bot:\n\n👨‍💻 @suryabm04\n👨‍💻 SB_KANNADA_MOVE_WORLD\n\n\n❤️ A big thank you for making this bot awesome!", show_alert=True)
  
     elif query.data == "Source":
         buttons = [[
-            InlineKeyboardButton('Repo', url='https://youtu.be/mWCsVUOKuoI')
+            InlineKeyboardButton('Repo', url='https://t.me/+SdLfVDHfB5diNTE1')
         ],[
             InlineKeyboardButton('⋞ ʙᴀᴄᴋ', callback_data='about'),
             InlineKeyboardButton('• ᴄʟᴏsᴇ •', callback_data='close_data')
@@ -1031,14 +1031,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	      InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
        ],[
               InlineKeyboardButton('⋞ ʜᴏᴍᴇ', callback_data='features'),
-              InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/learning_bots'),
+              InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/suryabm04),
        ]]
        reply_markup = InlineKeyboardMarkup(buttons)
        await client.edit_message_media(
           chat_id=query.message.chat.id,
           message_id=query.message.id,
           media=InputMediaAnimation(
-            media="https://cdn.jsdelivr.net/gh/Jisshubot/JISSHU_BOTS/Video.mp4/Group_20240921_202540_0001.gif",
+            media="https://cdn.jsdelivr.net/gh/SB_KANNADA_MOVE_WORLD/SB_AUTO_FILTER_01_BOT/Video.mp4/Group_20240921_202540_0001.gif",
             caption=script.GROUP_TEXT.format(temp.B_LINK),
             parse_mode=enums.ParseMode.HTML
         ),
@@ -1660,3 +1660,4 @@ async def advantage_spell_chok(message):
         await message.delete()
     except:
         pass
+
